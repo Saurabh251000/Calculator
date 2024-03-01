@@ -1,0 +1,18 @@
+.buttonsContainer{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+.Buttons{
+  height: 36px;
+  width: 50px;
+  margin: 5px 12px;
+  font-size: 20px;
+  font-weight: 600;
+  border-radius: 8px;
+}
+.Buttons:hover{
+  box-shadow: 0 0 8px 3px violet;
+}
